@@ -6,7 +6,7 @@
 
 # This variable contains absolute path of this `parking_lot` script
 # DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null && pwd )"
-
+cd ..
 node index.js
 
 $SHELL
